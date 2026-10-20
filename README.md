@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo-mark.png" alt="Laurel Web Studio logo" width="96">
+</p>
+
 # Laurel Web Studio
 
 We build websites for local businesses in Pennsylvania: the kind that get a
