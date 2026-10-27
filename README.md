@@ -24,7 +24,7 @@ first call to launch.
 ## Tools and languages
 
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=astro,tailwind,ts,js,html,css,nodejs,threejs,blender,cloudflare,workers,githubactions,git,linux,nginx,docker,azure,windows&perline=9" alt="Astro, Tailwind CSS, TypeScript, JavaScript, HTML, CSS, Node.js, three.js, Blender, Cloudflare, Cloudflare Workers, GitHub Actions, Git, Linux, Nginx, Docker, Azure, Windows"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=astro,tailwind,ts,js,html,css,nodejs,threejs,blender,cloudflare,workers,githubactions,git,linux,nginx,docker,aws,azure,windows&perline=10" alt="Astro, Tailwind CSS, TypeScript, JavaScript, HTML, CSS, Node.js, three.js, Blender, Cloudflare, Cloudflare Workers, GitHub Actions, Git, Linux, Nginx, Docker, AWS, Azure, Windows"></a>
 </p>
 
 ## Featured work
